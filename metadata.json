@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة ومتابعة غيابات الطلبة - جامعة المسيلة",
+  "description": "نظام إدارة ومتابعة غيابات الطلبة بكلية الحقوق والعلوم السياسية بجامعة محمد بوضياف بالمسيلة. تصميم وإنجاز: أ.د/ بلواضح الطيب",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
